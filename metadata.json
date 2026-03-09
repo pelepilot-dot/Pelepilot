@@ -1,0 +1,5 @@
+{
+  "name": "SkyNav VOR Simulator",
+  "description": "A real-time VOR (VHF Omnidirectional Range) and DME simulator for pilots and aviation enthusiasts. Track radials and distance from virtual stations.",
+  "requestFramePermissions": ["geolocation"]
+}
